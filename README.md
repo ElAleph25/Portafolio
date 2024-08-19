@@ -1,6 +1,13 @@
 # Portafolio
 
-Este es mi primer portafolio para Análisis de Datos y Ciencia de Datos. Se utilizarán Data Sets interesantes para estudiar desde el análisis exploratorio de datos, hasta la implementación de algoritmos de Machine Learning. El lenguaje de programación principal será Python. A continuación, les presentaré los projectos que conforman este portafolio:
+Este es mi primer portafolio para la Ciencia de Datos. El objetivo es:
+
+- Entender la naturaleza de los problemas que presentan estos Data Sets para decidir qué modelo de Machine Learning aplicar para resolver dicha cuestión. 
+- Limpiar y explorar los Data Sets a estudiar con base al modelo de Machine Learning a aplicar.
+- Entrenar el modelo de Machine Learning.
+- Generar un modelo y evaluar su eficacia. 
+
+A continuación, tenemos los algoritmos de Machine Learning estudiados:
 
 ## Machine Learning
 
