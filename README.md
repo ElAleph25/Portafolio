@@ -18,10 +18,12 @@ A continuación, se ofrece el listado con los DataSets, la descripción de su pr
 **Objetivo:** Realizar consultas relevantes de expedientes médicos similares.
 
 **Descripción:**
-Un problema común que podría tener el sector salud, es que exista una epidemia (como la del COVID) que atente con la salud de una gran cantidad de personas. Teniendo en cuenta los sintomas (o características) de dicha enfermedad, sería útil para los médicos poder revisar, rápidamente, los expedientes médicos de muchos pacientes y compararlos entre sí con base a las características de la epidemia. Una vez identificados estos expedientes similares, es posible darles un seguimiento médico a estos pacientes para prevenir el avance de la enfermedad. En este caso, nuestro DataSet contiene 13924 registros que son expedientes médicos. 
+Un problema común en el sector salud, es que surja una epidemia, pandemia o endemia desconocida, que atente con la salud de una gran cantidad de personas en una población. Teniendo en cuenta los sintomas de dicha enfermedad, sería útil para los médicos y especialistas poder revisar en sus bases de datos los expedientes médicos de muchos pacientes y compararlos entre sí con base a las características la enfermedad. Hacer la comparación de expedientes médicos similares, hace posible identificar los pacientes con estos síntomas, para después, darles un seguimiento médico a estos pacientes para priorizar su salud y prevenir el avance de la enfermedad. En este caso, nuestro DataSet contiene 13924 registros que son expedientes médicos. 
 
-El análisis semántico latente (LSA por sus siglas en inglés), es un método del "Procesamiento del Lenguaje Natural" que compara, en un corpus de textos, los documentos más similares. La metodología es, esencialmente: preprocesar y vectorizar el texto, utilizar la descomposición singular de matrices
+El análisis semántico latente (LSA por sus siglas en inglés), es un método del "Procesamiento del Lenguaje Natural" que compara, en un corpus de textos, los documentos más similares. La metodología es, esencialmente: preprocesar y vectorizar textos, utilizar la descomposición singular de matrices
 (SVD) y, finalmente, comparar los textos con la similitud del coseno. 
+
+Entonces, LSA puede ayudarnos a comparar expedientes médicos. 
 
 **Skills:** Preprocesamiento de texto (lemmatizar y stemizar), vectorizar textos (TF-IDF), álgebra lineal (descomposición SVD). 
 
