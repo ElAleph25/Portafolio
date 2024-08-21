@@ -27,7 +27,7 @@ Entonces, LSA puede ayudarnos a comparar expedientes médicos.
 
 **Skills:** Preprocesamiento de texto (lemmatizar y stemizar), vectorizar textos (TF-IDF), álgebra lineal (descomposición SVD). 
 
-**Paquetería:** Python, Pandas, Numpy, Matplotlib, SciPy.
+**Paquetería:** Python, Pandas, Numpy, Matplotlib, SciPy, Nltk.
 
 **Resultados:** Al utilizar LSA, tenemos una forma de comparar muchos expedientes médicos. La comparación de estos textos, es con base a la similitud de frases o palabras. 
 Esto puede ser de gran utilidad para los médicos que necesitan encontrar patrones, palabras y frases comúnes que cumplan un conjunto de pacientes. 
