@@ -25,7 +25,7 @@ El análisis semántico latente (LSA por sus siglas en inglés), es un método d
 
 Es por esto que, LSA, puede ayudarnos a cumplir el propósito de comparar expedientes médicos. 
 
-**Skills:** Preprocesamiento de texto (lemmatización y stemming), vectorizar textos (TF-IDF), álgebra lineal (descomposición SVD). 
+**Skills:** Preprocesamiento de texto (lemmatización y stemming), vectorizar textos (Bolsas de Palabras y TF-IDF), álgebra lineal (descomposición SVD). 
 
 **Paquetería:** Python, Pandas, Numpy, Matplotlib, SciPy, Nltk.
 
