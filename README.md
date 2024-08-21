@@ -10,7 +10,7 @@ Este es mi primer portafolio para la Ciencia de Datos. El objetivo es:
 
 A continuación, se ofrece el listado con los DataSets, la descripción de su problema y la resolución vía Machine Learning. 
 
-## Portafolio 
+## Modelos de Machine Learning
 
 ### Análisis semántico latente para expedientes médicos 
 **Código:** [`LSA para expedientes médicos.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
