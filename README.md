@@ -13,7 +13,7 @@ A continuación, se ofrece el listado con los DataSets, la descripción de su pr
 ## Modelos de Machine Learning
 
 ### Análisis semántico latente para expedientes médicos 
-**Código:** [`LSA para expedientes médicos.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Código:** [`LSA para expedientes médicos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/LSA_para_expedientes_me%CC%81dicos.ipynb)
 
 **Objetivo:** Realizar consultas relevantes de expedientes médicos similares.
 
