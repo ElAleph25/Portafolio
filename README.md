@@ -43,7 +43,7 @@ Diagnosticar este tipo de enfermedades, regularmente se realizan a través de un
 El algoritmo del Perceptrón lineal nos puede ayudar a realizar la clasificación del tejido sano y cancerígeno en automático. Este algoritmo se usará para realizar una clasificación binaria de un subconjunto de imágenes provenientes del [Data Challenge by Mauna Kea](https://challengedata.ens.fr/participants/challenges/11/).
 
 Para este clasificador se utilizaron solamente las imágenes de tejido sano y las imágenes de tejido con displasia/cáncer.
-El conjuntode datos está formado por 1,469 imágenes de tejido sano (clase 0)  y 3,594 imágenes de displasia/cáncer (clase 1).
+El conjuntode datos está formado por 1,469 imágenes de tejido sano (Clase 0)  y 3,594 imágenes de displasia/cáncer (Clase 1).
 
 Las imágenes originales fueron escaladas de 519x521 pixeles a 260x260 para reducir el tiempo y la memoria requeridos para el procesamiento. El conjunto de imágenes utilizadas están disponibles en el archivo comprimido [CarpetaImagenes.zip](https://drive.google.com/file/d/1Abi4hjl5djn8X75YCcMXL5htq7iqf7VY/view?usp=sharing), fuera de este repositorio.
 
