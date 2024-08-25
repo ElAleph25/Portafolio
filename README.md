@@ -13,7 +13,7 @@ A continuación, se ofrece el listado con los DataSets, la descripción de su pr
 ## Modelos de Machine Learning
 
 ### Análisis semántico latente para expedientes médicos 
-**Código:** [`LSA para expedientes médicos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/LSA_para_expedientes_me%CC%81dicos.ipynb)
+**Código:** [`LSA para expedientes médicos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/LSA%20para%20expedientes%20me%CC%81dicos.ipynb)
 
 **Objetivo:** Realizar consultas relevantes de expedientes médicos similares.
 
@@ -33,7 +33,7 @@ Es por esto que, LSA, puede ayudarnos a cumplir el propósito de comparar expedi
 Esto puede ser de gran utilidad para los médicos que necesitan encontrar patrones, palabras y frases comúnes que cumplan un conjunto de pacientes. 
 
 ### Perceptrón para la clasificación de tejidos sanos y cancerígenos en el esófago 
-**Código:** [`PerceptrónParaTejidosCancerígenos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/LSA_para_expedientes_me%CC%81dicos.ipynb)
+**Código:** [`PerceptrónParaTejidosCancerígenos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Perceptr%C3%B3nParaTejidosCancer%C3%ADgenos/Perceptro%CC%81n%20Para%20Tejidos%20Canceri%CC%81genos.ipynb)
 
 **Objetivo:** En una muestra de 5063 imágenes de tejido esofágico, clasificar los que sí tienen cáncer y los que no. 
 
