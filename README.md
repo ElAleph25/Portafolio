@@ -22,6 +22,7 @@ A continuación, se ofrece el listado con los DataSets, la descripción de su pr
 
 -[`Regresión logística`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
 
+-[`Series de tiempo`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
 
 
 
