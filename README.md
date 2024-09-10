@@ -14,13 +14,15 @@ A continuación, se ofrece el listado con los DataSets, la descripción de su pr
 
 -[`Análisis semántico latente (Procesamiento del Lenguaje Natural) `](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/README.md)
 
+-[`Árboles de desición`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
 
 -[`Perceptrón`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Perceptr%C3%B3nParaTejidosCancer%C3%ADgenos/README.md)
 
+-[`Regresión lineal`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
 
 -[`Regresión logística`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
 
 
--[`Árboles de desición`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+
 
 
