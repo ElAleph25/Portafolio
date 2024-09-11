@@ -12,15 +12,15 @@ A continuación, se ofrece el listado con los DataSets, la descripción de su pr
 
 ## Modelos de Machine Learning
 
--[`Análisis semántico latente (Procesamiento del Lenguaje Natural) `](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/README.md)
+-[`Análisis semántico latente (Procesamiento del Lenguaje Natural) `](https://github.com/ElAleph25/Projectos-del-Portafolio-/tree/main/An%C3%A1lisisSem%C3%A1nticoLatente)
 
--[`Árboles de desición`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+-[`Árboles de desición`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/%C3%81rbolesDeDesici%C3%B3n/README.md)
 
--[`Perceptrón`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Perceptr%C3%B3nParaTejidosCancer%C3%ADgenos/README.md)
+-[`Perceptrón`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Perceptr%C3%B3nLineal/README.md)
 
 -[`Regresión lineal`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
 
--[`Regresión logística`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+-[`Regresión logística`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Regresi%C3%B3nLog%C3%ADstica/README.md)
 
 -[`Series de tiempo`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
 
