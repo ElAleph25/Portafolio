@@ -1,6 +1,6 @@
 # Portafolio
 
-Este es mi portafolio para la Ciencia de Datos. El objetivo es:
+Este es mi portafolio para Análisis de Datos y modelos de Machine Learning. El objetivo es:
 
 - Entender la naturaleza de los problemas que presentan estos Data Sets para decidir qué algoritmo y modelo de Machine Learning aplicar para resolver dicha cuestión. 
 - Limpiar y explorar los Data Sets a estudiar con base al algoritmo de Machine Learning a aplicar.
@@ -9,6 +9,11 @@ Este es mi portafolio para la Ciencia de Datos. El objetivo es:
 - Dar un resumen general del problema y su modelo. 
 
 A continuación, se ofrece el listado con los DataSets, la descripción de su problema y la resolución vía Machine Learning. 
+
+## Análisis de Datos 
+
+-[`NBA`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+
 
 ## Modelos de Machine Learning
 
@@ -22,7 +27,9 @@ A continuación, se ofrece el listado con los DataSets, la descripción de su pr
 
 -[`Regresión logística`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Regresi%C3%B3nLog%C3%ADstica/README.md)
 
--[`Series de tiempo`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+-[`Sistemas de Recomendación`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+
+
 
 
 
