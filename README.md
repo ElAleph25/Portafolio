@@ -8,7 +8,7 @@ Este es mi portafolio para Análisis de Datos y modelos de Machine Learning. El 
 - Generar un modelo y evaluar su eficacia.
 - Dar un resumen general del problema y su modelo. 
 
-A continuación, se ofrece el listado con los DataSets, la descripción de su problema y la resolución vía Machine Learning. 
+A continuación, se ofrece el listado con los DataSets.
 
 ## Análisis de Datos 
 
