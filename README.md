@@ -2,11 +2,17 @@
 
 Este es mi portafolio para Análisis de Datos y modelos de Machine Learning. El objetivo es:
 
+## Análisis de Datos
+
+- Realizar las preguntas adecuadas para poder realizar un análisis exploratorio común de análisis de datos. 
+
+## Machine Learning
+
 - Entender la naturaleza de los problemas que presentan estos Data Sets para decidir qué algoritmo y modelo de Machine Learning aplicar para resolver dicha cuestión. 
-- Limpiar y explorar los Data Sets a estudiar.
+- Limpiar y explorar los Data Sets a estudiar. 
 - Entrenar el algoritmo de Machine Learning.
 - Generar un modelo y evaluar su eficacia.
-- Dar un resumen general del problema y su modelo. 
+- Dar un resumen general del problema.
 
 A continuación, se ofrece el listado con los DataSets.
 
