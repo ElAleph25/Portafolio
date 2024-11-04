@@ -18,12 +18,12 @@ A continuación, se ofrece el listado con los DataSets.
 
 ## Análisis de Datos 
 
--[`NBA`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+-[`NBA`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/NBA/README.md)
 
 
 ## Modelos de Machine Learning
 
--[`Análisis semántico latente (Procesamiento del Lenguaje Natural) `](https://github.com/ElAleph25/Projectos-del-Portafolio-/tree/main/An%C3%A1lisisSem%C3%A1nticoLatente)
+-[`Análisis semántico latente (Procesamiento del Lenguaje Natural) `](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/An%C3%A1lisisSem%C3%A1nticoLatente/README.md)
 
 -[`Árboles de desición`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/%C3%81rbolesDeDesici%C3%B3n/README.md)
 
@@ -33,7 +33,7 @@ A continuación, se ofrece el listado con los DataSets.
 
 -[`Regresión logística`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Regresi%C3%B3nLog%C3%ADstica/README.md)
 
--[`Sistemas de Recomendación`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/README.md)
+-[`Sistemas de Recomendación`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LDA/README.md)
 
 
 
